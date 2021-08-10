@@ -13,7 +13,7 @@ An in-depth paragraph about your project and overview of use.
 | Plugin | Link |
 | ------- | ----- |
 | loadash | https://www.npmjs.com/package/lodash |
-| reduxjs/tookit | |
+| reduxjs/tookit | https://www.npmjs.com/package/@reduxjs/toolkit |
 
 
 ### Installing
